@@ -1,5 +1,5 @@
 TC ID	Test Case Description	    Precondition	Steps	                            Expected Result	                  Status
-TC01	Verify UI loads correctly	App running	    Open app in browser	                UI loads with title, input, and Abutton	                                                                                                                    Pass
+TC01	Verify UI loads correctly	App running	    Open app in browser	                UI loads with title, input, and Abutton	                                                                                                                                                                    Pass
 TC02	Verify adding a new task	App running	    Enter task & click Add	            Task added to list	                Pass
 TC03	Prevent empty task	        App running	    Click Add without entering task	    Error message or nothing added	    Pass
 TC04	Edit a task	                Task exists	    Click edit icon, modify text, save	Task updated	                    Pass
