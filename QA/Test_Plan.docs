@@ -1,0 +1,46 @@
+Project Name - React To-Do List Application                                              
+Prepared By  - Maduka Sewwandi
+Date  - 2025.08.11 
+Version  -  1.0                                                                       
+Test Type  - Functional, UI, Usability                                                 
+Tools  - Browser, VS Code
+
+1. Introduction
+This test plan describes the testing approach for the React To-Do List app. The goal is to ensure the app functions correctly and provides a good user experience.
+
+2. Features to be Tested
+•	Add a task
+•	Edit a task
+•	Delete a task
+•	Task list display
+•	Prevent empty task submission
+•	Responsive UI (desktop view)
+•	Button & input responsiveness
+
+3. Features NOT to be Tested
+•	Performance testing
+•	Cross-browser testing (Optional)
+•	Backend/API testing (No API present)
+
+4. Test Strategy
+Manual testing will be performed on Google Chrome. Functional and UI tests will be executed.
+
+5. Test Environment
+Platform - Windows 10 / Mac
+Browser - Google Chrome
+Framework - React + Vite
+Node Version - v16+
+
+6. Test Schedule
+Test Case Design - 1 day
+Test Execution - 1 day
+Bug Reporting - 1 day
+
+7. Risks
+App crashes on invalid input - Input validation needed
+UI inconsistency - CSS review
+
+8. Exit Criteria
+•	All major test cases passed
+•	No major bugs remain open
+
